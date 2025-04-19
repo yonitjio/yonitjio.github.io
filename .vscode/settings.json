@@ -1,0 +1,8 @@
+{
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "licenser.author": "Yoni Tjio",
+    "licenser.license": "AGPLv3",
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.errorColor": "false",
+    "editor.defaultFormatter": null
+}

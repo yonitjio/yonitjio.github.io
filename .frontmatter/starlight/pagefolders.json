@@ -1,0 +1,9 @@
+{
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.pageFolders": [{
+      "title": "Exploring Odoo",
+      "path": "[[workspace]]/src/content/docs/exploring-odoo",
+      "previewPath": "exploring-odoo"
+    }
+  ]
+}
