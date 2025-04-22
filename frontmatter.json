@@ -10,5 +10,57 @@
     ".frontmatter/starlight/contenttypes.json",
     ".frontmatter/starlight/pagefolders.json",
     ".frontmatter/starlight/aside.json"
+  ],
+  "frontMatter.taxonomy.fieldGroups": [
+    {
+      "id": "actions_group",
+      "fields": [
+        {
+          "title": "text",
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "title": "link",
+          "name": "link",
+          "type": "string"
+        },
+        {
+          "title": "icon",
+          "name": "icon",
+          "type": "string"
+        },
+        {
+          "title": "variant",
+          "name": "variant",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "id": "actions_group",
+      "fields": [
+        {
+          "title": "text",
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "title": "link",
+          "name": "link",
+          "type": "string"
+        },
+        {
+          "title": "icon",
+          "name": "icon",
+          "type": "string"
+        },
+        {
+          "title": "variant",
+          "name": "variant",
+          "type": "string"
+        }
+      ]
+    }
   ]
 }
