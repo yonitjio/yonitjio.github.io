@@ -14,7 +14,14 @@ By utilizing OWL, Nuido enables developers to reuse their existing skills and kn
 ## Experiments based on Nuido
 Currently there are two experiments developed based on Nuido:
 ### NuidoAI - AI Chatbot Designer
+|![](../../../assets/nuidoai-001.png)|
+|:--:|
+| *Nuido AI* |
+
 NuidoAI allows users to design and configure AI chatbots using a user-friendly drag-and-drop interface. Leveraging the power of Semantic Kernel components, NuidoAI enables you to create chatbots tailored to your specific needs.
 
 ### Nuido Flow - Automation App
+|![](../../../assets/nuido-flow-001.png)|
+|:--:|
+| *Nuido Flow* |
 Nuido Flow provides a visual way to build complex workflows and automate processes within Odoo. With its node-based interface and pre-built components, Nuido Flow can help users to streamline their workflow and boost productivity.

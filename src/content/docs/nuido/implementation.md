@@ -27,6 +27,19 @@ To support complex node structures, we've introduced `SectionedNode` and its ass
 ## Nuido UI Component
 The core components and models described above are managed and orchestrated through a central Owl component: `NuidoUi`. This component provides the user interface for interacting with and manipulating these elements.
 
+## Event Bus
+Event bus is used to communicate between components.
+
+- `SelectionEventType` Used when node or edge selection events occurs.
+- `EdgeTypeEventType` Used when the type of current edge changes.
+- `NewEdgeEventType` Used when creating an edge.
+- `DocumentEventType` Used to handle events on document level, e.g. creating new document, reset document, etc.
+- `AdjustEdgeEndpoint` Used along with `RecalculateEdgeEndpointsEventType`.
+- `RecalculateEdgeEndpointsEventType` Used when the port position is changed.
+- `NuidoEventType` Used to handle zooming and coordinate translation events.
+- `NodeMovedEventType` Used when a node position is moved.
+
+
 ## Registries
 To promote extensibility and maintainability, Nuido utilizes registries to manage different types of components. These registries allow developers to easily add new node types, port types, edge types, and section types without modifying the core application code.
 
