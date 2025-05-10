@@ -20,10 +20,10 @@ export default defineConfig({
 					label: 'Exploring Odoo',
 					autogenerate: { directory: 'exploring-odoo' },
 				},
-				// {
-				// 	label: 'Nuido',
-				// 	autogenerate: { directory: 'nuido' },
-				// }
+				{
+					label: 'Nuido',
+					autogenerate: { directory: 'nuido' },
+				}
 			],
 			plugins: [starlightThemeNova()],
 		}),
