@@ -17,3 +17,4 @@ A node-based UI relies heavily on drag-and-drop interactions for users to create
 * ***Dragging Nodes***: Users can add, remove, or reposition nodes within the interface.
 * ***Connecting Edges***: Users can establish connections between nodes by dragging an edge from one node's output port to another node's input port. The ports may be implicit (i.e., located at the edges of a node) or explicit (i.e., designated areas on the node for inputs and outputs).
 * ***Configuring Nodes***: Depending on the complexity, nodes can have editable parameters or settings that users adjust through graphical controls such as sliders, dropdowns, or text fields. This allows for fine-tuning the behavior of each entity within the workflow.
+
